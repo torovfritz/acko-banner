@@ -7,13 +7,13 @@ body {
 .section {
     color: white;
     width: 175px;
-    background: #ffc601;
-    padding: 1.25em;   
+    background: #00539f;
+    padding: 1.25em;
 }
 
 input {
     width: 100%;
-    background: #00539f url(../img/newwin.png) no-repeat;
+    background: #ffc601 url(../img/newwin.png) no-repeat;
     background-position: 130px 20px;
     border: none;
     padding: 1.25em 2em 1.25em .5em;
@@ -25,7 +25,7 @@ input {
 }
 
     input:hover {
-        background: #0c487e url(../img/newwin.png) no-repeat;
+        background: #ffff01 url(../img/newwin.png) no-repeat;
     background-position: 130px 20px;
     }
 

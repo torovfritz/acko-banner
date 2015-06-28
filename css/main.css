@@ -3,3 +3,38 @@
 body {
 	font-family: Arial, sans-serif;
 }
+
+.section {
+    color: white;
+    width: 175px;
+    background: #ffc601;
+    padding: 1.25em;   
+}
+
+input {
+    width: 100%;
+    background: #00539f url(../img/newwin.png) no-repeat;
+    background-position: 130px 20px;
+    border: none;
+    padding: 1.25em 2em 1.25em .5em;
+    margin-top: 0.625em;
+    color: white;
+    font-size: 0.875em;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
+    input:hover {
+        background: #0c487e url(../img/newwin.png) no-repeat;
+    background-position: 130px 20px;
+    }
+
+.banner {
+    font-size: 1.25rem;
+    line-height: 1.3em;
+    margin-bottom: 10px;
+}
+
+span {
+    font-weight: bold;
+}

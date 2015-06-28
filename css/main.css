@@ -1,0 +1,44 @@
+@import url(reset.css);
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.section {
+    color: white;
+    width: 175px;
+    background: #ffc601;
+    padding: 1.25em;   
+}
+
+.section a {
+    display: block;
+    width: 135px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    background: #00539f;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    transition: all .5s ease-in-out;
+}
+
+    .section a:hover {
+        background: #0c487e;
+    }
+
+a:after {
+    content: url(../img/newwin.png);
+    margin-left: 5px;
+}
+
+.banner {
+    font-size: 1.25rem;
+    line-height: 1.3em;
+    margin-bottom: 20px;
+}
+
+span {
+    font-weight: bold;
+}

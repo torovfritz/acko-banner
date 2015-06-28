@@ -7,7 +7,7 @@ body {
 .section {
     color: white;
     width: 175px;
-    background: #ffc601;
+    background: #00539f;
     padding: 1.25em;   
 }
 
@@ -17,7 +17,7 @@ body {
     padding: 20px;
     text-align: center;
     margin-top: 10px;
-    background: #00539f;
+    background: #ffc601;
     color: white;
     text-decoration: none;
     font-size: 14px;
@@ -25,7 +25,7 @@ body {
 }
 
     .section a:hover {
-        background: #0c487e;
+        background: #ffe200;
     }
 
 a:after {
